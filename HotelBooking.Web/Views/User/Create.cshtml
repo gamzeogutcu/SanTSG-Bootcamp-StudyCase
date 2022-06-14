@@ -1,0 +1,54 @@
+﻿@model HotelBooking.Domain.Users.User
+@* view page for the create action method defined inside the user controller class *@
+@*Inside create.cshtml view page, we have defined input fields for username, password and email id *@
+@* At the bottom, save and reset button has been designed to submit and reset user details to the database, respectively. *@
+<div class="row text">
+
+    <div class="col-md-8 offset-2">
+
+        <form method="post">
+            <h1>User Registration Form</h1>
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Password" class="control-label"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label asp-for="IsActive"></label>
+                <input asp-for="IsActive" />
+                <span asp-validation-for="IsActive"></span>
+
+            </div>
+
+
+            <button type="submit" class="SaveButton">Save User Details</button>
+            <button type="reset" class="SaveButton">Reset</button>
+            <a asp-controller="User" asp-action="Index">Back to List</a>
+        </form>
+        </div>
+    </div>
+
+        @section Scripts{
+            @{
+                <partial name="_ValidationScriptsPartial" />
+            }
+
+        }

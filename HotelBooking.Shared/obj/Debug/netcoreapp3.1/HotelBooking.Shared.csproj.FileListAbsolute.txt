@@ -1,0 +1,10 @@
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\bin\Debug\netcoreapp3.1\HotelBooking.Shared.deps.json
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\bin\Debug\netcoreapp3.1\HotelBooking.Shared.dll
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\bin\Debug\netcoreapp3.1\HotelBooking.Shared.pdb
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.csproj.AssemblyReference.cache
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.AssemblyInfoInputs.cache
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.AssemblyInfo.cs
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.csproj.CoreCompileInputs.cache
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.dll
+C:\Users\toshiba\Desktop\bootcamp\SanTSG-Bootcamp-StudyCase\HotelBooking\HotelBooking.Shared\obj\Debug\netcoreapp3.1\HotelBooking.Shared.pdb
